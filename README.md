@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning *golang React and Rust*
 -----
 ### Have built small apps or games using:
-***HTML, CSS, JavaScript, Python, BBC BASIC, C, Dart, Kotlin, React, Flask, Django, Rust, sqlite3, SQL, Bash, Golang, Vue,   ***
+***HTML, CSS, JavaScript, Python, Java, BBC BASIC, C, Dart, Kotlin, React, Flask, Django, Rust, sqlite3, SQL, Bash, Golang, Vue,   ***
 -----
 - 💞️ I’m looking to collaborate on anything I can help with really
 - 📫 How to reach me here basically
