@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bas-man-dev
-- 👀 I’m interested in Web and mobile developmentfront and backend, a11y. Fitness, making music, writing, yoga and self development
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in Web and mobile development: front and backend, a11y. Fitness, making music, writing, yoga and self development
+- 🌱 I’m currently learning Java and dabbling in AI and data science.
 -----
 ### Have built small apps or games using:
 ***HTML, CSS, JavaScript, Python, Java, BBC BASIC, C, Dart, Kotlin, React, Flask, Django, Rust, sqlite3, SQL, Bash, Scratch, Golang, Vue,   ***
