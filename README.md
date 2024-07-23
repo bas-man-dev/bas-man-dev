@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @bas-man-dev
 - 👀 I’m interested in Web and mobile development: front and backend, a11y. Fitness, making music, writing, yoga and self development
-- 🌱 I’m currently learning Java and dabbling in AI and data science.
+- 🌱 I’m currently learning relearning Rails and doing some AI based projects.
 -----
 ### Have built small apps or games using:
-***HTML, CSS, JavaScript, Python, Java, BBC BASIC, C, Dart, Kotlin, React, Flask, Django, Rust, sqlite3, SQL, Bash, Scratch, Golang, Vue, C++, Ruby...  ***
+***HTML, CSS, JavaScript, Python, Java, BBC BASIC, C, Dart, Kotlin, React, Flask, Django, Rust, sqlite3, SQL, Bash, Scratch, Golang, Vue, C++, Ruby, Rails, Typescript, C#, ...  ***
 -----
 - 💞️ I’m looking to collaborate on anything I can help with really
 - 📫 How to reach me?  here basically
